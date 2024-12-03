@@ -34,7 +34,7 @@ https://mariavitoriajesus.github.io/Local-Pets/
 ---
 
 ## Contato
-Para mais informações, entre em contato com [seu email aqui].
+Para mais informações, entre em contato com mariavitoriajesudonascimento@outlook.com  
 
 ---
 
