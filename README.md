@@ -1,4 +1,5 @@
 # LocalPets
+ <img src="../../Img/icons/LocalPets-icon.png" alt="Local Pets icon">
 
 ## Sobre o Projeto
 LocalPets é uma agência de controle de rota de animais, projetada para garantir a segurança do seu pet onde quer que ele esteja. Com rastreamento 24 horas por dia, 7 dias por semana, incluímos no nosso plano microchipagem gratuita, desconto em lojas parceiras e até desconto em consultas veterinárias.
@@ -27,7 +28,8 @@ LocalPets é uma agência de controle de rota de animais, projetada para garanti
 - Nome do Participante: Maria Vitória Jesus do Nascimento
 
 ## Como Executar
-1. 
+Basta apenas acessar o link 
+https://mariavitoriajesus.github.io/Local-Pets/
 
 ---
 
