@@ -229,3 +229,94 @@ top: 40px;
 margin: 0px;
 } 
 
+
+/* --------------------------------------------------------- */
+
+.card-login2 {
+  font-family: 'Onest';
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 100px 80px;
+    background-color: #FFAD60;
+    border-radius: 35px;
+    box-shadow: 0px 10px 40px #e76e0cd0;
+}
+
+.form-cadastro {
+  font-size: 16px;
+  font-weight: bold;
+  display: block;
+  margin-bottom: 5px;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="date"],
+select {
+  width: 75%;
+  border: 0px solid #ccc;
+  border-radius: 5px;
+  font-size: 20px;
+  margin-bottom: 15px;
+  outline: none;
+  transition: all 0.3s;
+}
+
+input[type="text"]:focus,
+input[type="email"]:focus,
+input[type="date"]:focus,
+select:focus {
+    border-color: #4caf50;
+}
+
+.form-cadastro ol {
+  list-style-type: decimal;
+  padding-left: 20px;
+}
+
+.plano-item {
+  margin: 10px 0;
+}
+
+.plano-item input[type="radio"] {
+  margin-right: 10px;
+  vertical-align: middle;
+}
+
+.plano-item label {
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.form-cadastro button {
+  background-color: #4caf50;
+  color: white;
+  font-size: 16px;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  width: 100%;
+  transition: background-color 0.3s;
+}
+
+.form-cadastro button:hover {
+  background-color: #96ceb4;
+}
+
+@media (max-width: 600px) {
+  .form-cadastro {
+      padding: 15px;
+  }
+
+  input[type="text"],
+  input[type="email"],
+  input[type="date"],
+  select,
+  button {
+      font-size: 16px;
+  }
+}
